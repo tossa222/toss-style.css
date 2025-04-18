@@ -1,3 +1,4 @@
+<style>
 body {
     display: flex;
     justify-content: center;
@@ -239,3 +240,4 @@ main {
         font-size: 28px;
     }
 }
+</style>
